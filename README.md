@@ -1,6 +1,3 @@
-<div align='center'><h1>Gustavo Monteiro</h1></div>
-
-
 - :computer: I'm working with Android in [Globo](https://github.com/globoi)
 - 🔭 I'm looking to learn all the ways to develop mobile applications
 - 🌱 I'm currently learning iOS and improving on flutter
