@@ -1,4 +1,4 @@
-- :computer: I'm working with Android in [Globo](https://github.com/globoi)
+- :computer: I'm working with Android in [Stone](https://github.com/stone-payments)
 - 🔭 I'm looking to learn all the ways to develop mobile applications
 - 🌱 I'm currently learning iOS and improving on flutter
 
